@@ -1,6 +1,6 @@
 # Ollama
 
-Ver en "localhost:3000"
+Ver en "localhost:5000"
 
  La version actual de chatbot-ollama no descarga el modelo automaticamente.
  
